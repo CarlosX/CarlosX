@@ -7,7 +7,7 @@
 - [Discord](http://discord.gg/srawAN3)
 
 ### Languages and Tools:
-
+<p>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
  </a> 
@@ -29,9 +29,8 @@
 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-</a> 
-
-<br />
+</a>
+</p>
 
 ![carlosx github stats](https://github-readme-stats.vercel.app/api?username=CarlosX&show_icons=true&theme=dark&count_private=true&include_all_commits=true&title_color=45cc06&icon_color=45cc06&hide=stars,contribs)
 
