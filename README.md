@@ -1,7 +1,8 @@
 ### Hi there 👋
 🔭 I’m currently working on ...
 - [GunboundWC](https://github.com/CarlosX/GunBoundWC)
-- [GodsWar](https://github.com/CarlosX/GodsWar)
+- [GunboundS2](https://github.com/CarlosX/GunBoundS2)
+- [Wolfteam](https://github.com/CarlosX/Wolfteam)
 
 📫 How to reach me:
 - [Discord](http://discord.gg/srawAN3)
